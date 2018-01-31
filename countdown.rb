@@ -7,3 +7,5 @@ def countdown(number)
     sleep 6
   end
 end
+
+countdown(9)
