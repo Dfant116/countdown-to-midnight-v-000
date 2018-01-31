@@ -7,4 +7,3 @@ def countdown(number)
   end
 end
 
-countdown(9)
